@@ -183,24 +183,6 @@ Each skill supports configuration options stored in `.claude/config.json`:
 - Appropriate runtime environments for test execution (Node.js, Python, etc.)
 - GitHub MCP connection for PR creation (optional)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, please open an issue in this repository or contact the maintainers.
-
 ## Acknowledgments
 
 - Thanks to the Claude Code team for creating such a powerful development tool
